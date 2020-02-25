@@ -1,0 +1,10 @@
+[
+   {
+      "Repo":"ML-python-sklearn-rc-cpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-sklearn-rc-cpu-training",
+      "Tail":"-training"
+   }
+]
